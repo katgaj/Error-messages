@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="MadCap HTML5 Target"
+  Type="WebHelp2"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  MasterPage="/Content/Resources/TemplatePages/Home.flmsp"
+  ShowMadCapBacklink="true"
+  MasterToc="/Project/TOCs/Error messages.fltoc"
+  ResolveCssVariables="true"
+  Skin="/Project/Skins/Side-Navigation.flskn"
+  MasterStylesheet="/Content/Resources/Stylesheets/Styles.css"
+  OutputFolder="C:\MCap\Error messages"
+  GetLatestBeforeCompile="true"
+  MasterStylesheetOverride="true"
+  FaviconSkin="/Project/Skins/Favicon.flskn"
+  BrandingStylesheet="/Content/Resources/Branding/Branding.css"
+  EquationsOutputType="PNG"
+  ContentInclusionType="Referenced"
+  MenuSkin="/Project/Skins/Menu.flskn"
+  DefaultUrl="/Content/Resources/TemplatePages/Home.htm"
+  OutputFile="index.html">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true"
+    OutputFormat="doc" />
+  <Destinations>
+    <Destination
+      Link="/Project/Destinations/NewDestination.fldes"
+      Publish="true"
+      IsResource="false" />
+  </Destinations>
+</CatapultTarget>

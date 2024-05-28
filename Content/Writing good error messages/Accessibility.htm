@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <h1>Accessibility</h1>
+        <p>Usually, in forms error messages are put under the input field, or perhaps — less frequently — on the right side of the input field. As it turns out, there are a few accessibility issues that occur due to these conventions.</p>
+        <p>Users of a magnifying software might miss the error message when it’s located on the right. It is more efficient to place the icon on the left edge.</p>
+        <p>
+            <img src="../Resources/Images/accessibility_3_r.png" title="accessibility_3 image" alt="accessibility_3 image" />
+        </p>
+        <p>On mobiles, users might not be able to see the error message under the input because it will be covered by the virtual keyboard.</p>
+        <p>When editing input, error messages might be covered by the browser’s autofill or dropdown’s autocomplete suggestions.</p>
+        <p>
+            <img src="../Resources/Images/accessibility_4_r.png" title="accessibility_4 image" alt="accessibility_4 image" />
+        </p>
+        <p>&#160;</p>
+        <p>So, designing an error message like below would be the worst practice:</p>
+        <p>
+            <img src="../Resources/Images/accessibility_2_r.png" title="accessibility_2 image" alt="accessibility_2 image" />
+        </p>
+        <p>We can avoid accessibility issues by displaying errors above erroneous input fields. Also, due to color vision deficiencies, it’s a good idea to always complement error messages with an icon, e.g., a large exclamation mark on a red background — right next to the error message. We can also highlight the entire section, along with the field, label, the hint, the error message and the input field. For example, a thick red vertical line next to the error message is a common pattern for error messages on Welcome to <a href="https://www.gov.uk/" target="_blank" title="gov.uk link" alt="gov.uk link">GOV.UK</a></p>
+        <p>
+            <img src="../Resources/Images/accessibility_1_r.png" title="accessibility_1 image" alt="accessibility_1 image" />
+        </p>
+        <p>In the above example, you can also see the <a href="https://design-system.service.gov.uk/components/error-summary/" target="_blank" title="error summary link" alt="error summary link">error summary</a>, which might be a good idea to guide users towards specific issues of the application form. That summary can contains a link to the areas in the form which contain errors, so users can jump there directly.</p>
+        <p>The summary may appear on the top of the page, or just above the action button.</p>
+    </body>
+</html>

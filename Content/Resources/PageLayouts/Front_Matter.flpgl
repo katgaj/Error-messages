@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PageStyles MadCap:conditions="Default.PrintOnly" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <Page Name="Title" Width="800" Height="800" Padding="20px" PageSize="Letter" PageType="title" PaddingLeft="1.5in" PaddingRight="1in" PaddingTop="1in" PaddingBottom="1in" BleedBottom="0" BleedLeft="0" BleedTop="0" BleedRight="0">
+        <Frame Flow="body" ColumnCount="1" Anchors="Left,Right,Top,Bottom" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" X="-0.78125in" Y="0.8333333in" Right="-0.4270833in" Bottom="-0.6458333in" Width="692px" Height="846px">
+        </Frame>
+        <Frame X="-65px" Y="-67px" Width="658px" Height="145px" Flow="header" Right="-17px" Bottom="786px" />
+        <Frame X="216px" Y="-50px" Width="100px" Height="100px" Flow="decoration0" Right="260px" Bottom="814px" BackgroundImage="../Images/logo_main_1.png" BackgroundRepeat="stretch" />
+    </Page>
+</PageStyles>

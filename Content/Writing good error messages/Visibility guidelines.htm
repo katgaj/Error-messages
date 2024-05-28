@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <h1>Visibility guidelines</h1>
+        <h2 style="page-break-before: avoid;">Use proper placement</h2>
+        <p>You have to make it clear that the error occurred (visibility of system status). The best option is to display the error message close to the error's source, so that the users can quickly identify it and take corrective action as needed. It is important that the error message is visible for the user till the problem is resolved.</p>
+        <p>
+            <img src="../Resources/Images/visibility_r.png" title="visibility image" alt="visibility image" style="width: 400px; height: 200px;" MadCap:mediastyle="@media print { width: 400px;height: 200px; }" />
+        </p>
+        <h2>Avoid premature error messages</h2>
+        <p>“Premature error messages are error messages that are presented by the system too early — before the user has reached a fair and reasonable point in the workflow to have truly committed an error or not.” (Nielsen)</p>
+        <p>Presenting errors too early, that is, before the user even has a chance to fill in empty fields on the page, is an example of a hostile pattern. It frequently occurs while filling out a form on websites and in applications. In the example below, the system displays an error message before the user has finished typing a value in a form field with a predetermined, correct format. The error message is displayed as soon as the user begins typing, even when they have stuck to the predetermined format. This can make the user frustrated, bewildered and belittled.</p>
+        <p>
+            <img src="../Resources/Images/premature_zipcodes_r.jpg" title="premature_zipcodes image" alt="premature_zipcodes image" />
+        </p>
+        <p>Avoid displaying the error until the user has finished with the field and moved to the next field. Provide clear, accessible indicators close to the text input about meeting specific password requirements, which could be a highly error-prone interaction.</p>
+        <p>
+            <img src="../Resources/Images/premature_good_r.jpg" title="premature_good image" alt="premature_good image" />
+        </p>
+        <p>Present error messages with visual treatments that will help users spot and recognize them.</p>
+        <p>Conventionally, use bold text and highlights, high-contrast and red color for the affected elements that require correction.</p>
+        <p>However, remember that for about 350 million people worldwide with a color-vision deficiency, this may not be enough and, therefore, apply the animation to indicate errors as well.</p>
+        <h2>Use the right format for your error messages</h2>
+        <p>Error messages are typically presented in modal dialog boxes — overlays that prevent users from interacting with underlying content. Putting error messages in modal dialog boxes has a major benefit — it gets 100 percent of the user’s attention. Thus, they should only be used in important situations like destructive actions (such as deletions).</p>
+        <p>
+            <img src="../Resources/Images/modal_dialog_r.png" title="modal_dialog image" alt="modal_dialog image" />
+        </p>
+        <p>Check Atlassian guidelines for <a href="https://atlassian.design/components/modal-dialog/examples" target="_blank" alt="modal dialog box">modal dialog box</a></p>
+        <p>In many cases, it’s possible to show the error messages using alternative patterns, such as inline or a status message.</p>
+        <p>Inline messages mean putting the error message right next to or above the label they belong with. Inline messages let users know when important information is available or when an action is required.</p>
+        <p>Try preparing a message as in the examples below following Atlassian <a href="https://atlassian.design/components/inline-message/examples" target="_blank" alt=" inline messages">inline messages</a> guide.</p>
+        <p>
+            <img src="../Resources/Images/inline_3_r.png" title="inline_3 image" alt="inline_3 image" />
+        </p>
+        <p>Inline messages give the user a validation before they click submit. Also, they can provide several types of real-time feedback:</p>
+        <ul style="list-style-type: square;">
+            <li>
+                <p>draw the user’s attention to an inappropriate input</p>
+            </li>
+            <li>
+                <p>confirm an appropriate input</p>
+            </li>
+            <li>
+                <p>suggest valid inputs</p>
+            </li>
+            <li>
+                <p>provide updates to keep users within necessary limits.</p>
+            </li>
+        </ul>
+        <p>And definitely avoid creating messages like this one:</p>
+        <p>
+            <img src="../Resources/Images/inline_2_r.png" title="inline_2 image" alt="inline_2 image" />
+        </p>
+        <p>Giving users a long list is going to frustrate them and make it extremely difficult to understand what went wrong, especially users with screen readers may find it discouraging.</p>
+    </body>
+</html>

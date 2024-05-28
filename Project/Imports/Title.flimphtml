@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HtmlImport
+  ImportResourcesLocation="NoImport"
+  KeepSourceLinks="true"
+  SourceFolders=""
+  ImportTopics="content"
+  LastImport="2024-05-18T14:25:45.5614414+02:00"
+  ImportTopicsLocation="Content/">
+  <Files>
+    <Url
+      Source="../../../../KT/MadCap_Project/Cross-country skiing/Content/E-Frontmatter-Topics/Title.htm"
+      AbsoluteSource="file:///C:/KT/MadCap_Project/Cross-country skiing/Content/E-Frontmatter-Topics/Title.htm" />
+    <Url
+      Source="../../../../KT/MadCap_Project/Cross-country skiing/Content/E-Frontmatter-Topics/HomePDF.htm"
+      AbsoluteSource="file:///C:/KT/MadCap_Project/Cross-country skiing/Content/E-Frontmatter-Topics/HomePDF.htm" />
+    <Url
+      Source="../../../../KT/MadCap_Project/Cross-country skiing/Content/E-Frontmatter-Topics/PDFProxy.htm"
+      AbsoluteSource="file:///C:/KT/MadCap_Project/Cross-country skiing/Content/E-Frontmatter-Topics/PDFProxy.htm" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Title.htm"
+      TimeStamp="18.05.2024 14:25:39" />
+    <Url
+      Source="../../Content/HomePDF.htm"
+      TimeStamp="18.05.2024 14:25:39" />
+    <Url
+      Source="../../Content/PDFProxy.htm"
+      TimeStamp="18.05.2024 14:25:39" />
+    <Url
+      Source="../TOCs/Title.fltoc"
+      TimeStamp="18.05.2024 14:25:43" />
+  </GeneratedFiles>
+</HtmlImport>

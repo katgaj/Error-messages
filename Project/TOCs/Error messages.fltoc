@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Types of error messages"
+    Link="/Content/Types of error messages/Confirmation.htm">
+    <TocEntry
+      Title="What is an error message"
+      Link="/Content/Types of error messages/Types of error messages.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Error"
+      Link="/Content/Types of error messages/Error.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Confirmation"
+      Link="/Content/Types of error messages/Confirmation.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Notification"
+      Link="/Content/Types of error messages/Notification.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Warning"
+      Link="/Content/Types of error messages/Warning.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Slips and mistakes"
+      Link="/Content/Types of error messages/Slips and mistakes.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="Writing good error messages"
+    Link="/Content/Writing good error messages/Writing good error messages.htm">
+    <TocEntry
+      Title="Visibility guidelines"
+      Link="/Content/Writing good error messages/Visibility guidelines.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Communication guidelines"
+      Link="/Content/Writing good error messages/Communication guidelines.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Efficiency guidelines"
+      Link="/Content/Writing good error messages/Efficiency guidelines.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Accessibility"
+      Link="/Content/Writing good error messages/Accessibility.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="Common mistakes while writing error messages"
+    Link="/Content/Common mistakes while writing error messages/Ambiguity.htm">
+    <TocEntry
+      Title="Ambiguity"
+      Link="/Content/Common mistakes while writing error messages/Ambiguity.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Blaming the user"
+      Link="/Content/Common mistakes while writing error messages/Blaming the user.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Excessive use of red color"
+      Link="/Content/Common mistakes while writing error messages/Excessive use of red color.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="The curse of knowledge"
+      Link="/Content/Common mistakes while writing error messages/The curse of knowledge.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Using humor"
+      Link="/Content/Common mistakes while writing error messages/Using humor.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Using negative words"
+      Link="/Content/Common mistakes while writing error messages/Using negative words.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Using uppercase and exclamation points"
+      Link="/Content/Common mistakes while writing error messages/Using uppercase and exclamation marks.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="Steps in creating error messages"
+    Link="/Content/Steps in creating error messages/The process of creating error messages.htm">
+    <TocEntry
+      Title="The process of creating error messages"
+      Link="/Content/Steps in creating error messages/The process of creating error messages.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="Conclusion"
+    Link="/Content/Conclusion/Conclusion.htm">
+    <TocEntry
+      Title="Conclusion"
+      Link="/Content/Conclusion/Conclusion.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="Bibliography"
+    Link="/Content/Bibliography/Useful links.htm">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Bibliography/Useful links.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+</CatapultToc>
