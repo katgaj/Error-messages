@@ -201,32 +201,32 @@
 
 	ul.off-canvas-list li a:hover
 	{
-		background-color: #45494C;
+		background-color: #f5fffa;
 	}
 
 	ul.off-canvas-list ul > li > a:hover
 	{
-		background-color: #45494C;
+		background-color: #f5fffa;
 	}
 
 	ul.off-canvas-list ul ul > li > a:hover
 	{
-		background-color: #45494C;
+		background-color: #f5fffa;
 	}
 
 	ul.off-canvas-list ul ul ul > li > a:hover
 	{
-		background-color: #45494C;
+		background-color: #f5fffa;
 	}
 
 	ul.off-canvas-list ul ul ul ul > li > a:hover
 	{
-		background-color: #45494C;
+		background-color: #f5fffa;
 	}
 
 	ul.off-canvas-list li.js-drilldown-back > a:hover
 	{
-		background-color: #45494C;
+		background-color: #f5fffa;
 	}
 
 	#resultList .glossary .term a:hover
@@ -760,12 +760,12 @@
 
 	.off-canvas
 	{
-		background-color: #45494C;
+		background-color: #87cefa;
 	}
 
 	.off-canvas ul ul
 	{
-		background-color: #45494C;
+		background-color: #87cefa;
 	}
 
 	ul.off-canvas-list li a

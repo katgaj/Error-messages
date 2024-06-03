@@ -569,7 +569,7 @@ html[dir='rtl'] .sidenav-layout
 
 ul.sidenav li a:hover
 {
-	background-color: #303335;
+	background-color: #f5fffa;
 }
 
 ul.sidenav ul > li > a
@@ -2052,22 +2052,22 @@ ul.sidenav li.is-accordion-submenu-parent > a span.submenu-toggle
 
 ul.sidenav ul > li > a:hover
 {
-	background-color: #303335;
+	background-color: #f5fffa;
 }
 
 ul.sidenav ul ul > li > a:hover
 {
-	background-color: #303335;
+	background-color: #f5fffa;
 }
 
 ul.sidenav ul ul ul > li > a:hover
 {
-	background-color: #303335;
+	background-color: #f5fffa;
 }
 
 ul.sidenav ul ul ul ul > li > a:hover
 {
-	background-color: #303335;
+	background-color: #f5fffa;
 }
 
 ul.sidenav li.is-accordion-submenu-parent > a span.submenu-toggle:hover
